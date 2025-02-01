@@ -1,6 +1,10 @@
 # React + Vite
 
-> npm install
-> npm run dev
+  ## Intall Depedensi
+    > npm install
 
-open url : localhost:3000
+  ## Running
+    > npm run dev
+
+  ## Open url : 
+    localhost:3000
